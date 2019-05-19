@@ -45,6 +45,10 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {3}Methodologie}{23}{chapter.3}% 
 \defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Beveiligingsmethodes}{23}{section.3.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Opbouw Host-based Card Emulation applicatie}{24}{section.3.2}% 
+\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {4}Conclusie}{25}{chapter.4}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {A}Onderzoeksvoorstel}{27}{appendix.A}% 

@@ -1,0 +1,129 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml:18:1-61:12
+INJECTED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml:18:1-61:12
+INJECTED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml:18:1-61:12
+MERGED from [com.android.support:support-v13:27.0.2] /Users/thibautmaddelein/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/dd0ba70a0007808fe549a9aed0bad4e0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] /Users/thibautmaddelein/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/b5714683bbf5b1e2ea4898a1fc0c50d2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/thibautmaddelein/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/788dd3265976bf65b9c2aee218005aa4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/thibautmaddelein/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/4a6bb353d7b02f62796caa73c0a9a512/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/thibautmaddelein/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/2cfde4d14c2adf1c701303f1ab0a5e97/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/thibautmaddelein/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/735cca6f463aaf6cfd8e0bdcb9841a07/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/thibautmaddelein/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/9d85d8b9aebf8d356a1bafe44b963db3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/thibautmaddelein/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/91357a4898d7552ffb35d1331ca9ae1a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/thibautmaddelein/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/09ae4c003ba246f79b61fd52d9cd3856/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/thibautmaddelein/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/a8307c868f04815005860c9689d94097/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/thibautmaddelein/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/4ea41056d1633960aaeab21cd4500754/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/thibautmaddelein/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/c4762f4351be1f26c6f21df3439e8424/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml:18:1-61:12
+INJECTED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml:18:1-61:12
+	package
+		ADDED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml:19:5-48
+	android:versionName
+		ADDED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml:21:5-30
+		INJECTED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml:18:11-69
+	android:versionCode
+		ADDED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml:20:5-28
+		INJECTED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml
+uses-feature#android.hardware.nfc.hce
+ADDED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml:25:5-85
+	android:required
+		ADDED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml:25:59-82
+	android:name
+		ADDED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml:25:19-58
+uses-permission#android.permission.NFC
+ADDED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml:26:5-62
+	android:name
+		ADDED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml:26:22-59
+application
+ADDED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml:28:5-58:19
+	android:label
+		ADDED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml:29:9-41
+	android:icon
+		ADDED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml:30:9-45
+	android:allowBackup
+		ADDED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml:28:18-44
+	android:theme
+		ADDED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml:31:9-40
+activity#com.example.android.cardemulation.MainActivity
+ADDED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml:34:9-40:20
+	android:label
+		ADDED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml:35:19-51
+	android:name
+		ADDED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml:34:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml:36:13-39:29
+action#android.intent.action.MAIN
+ADDED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml:38:27-74
+service#com.example.android.cardemulation.CardService
+ADDED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml:44:9-56:19
+	android:exported
+		ADDED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml:45:18-41
+	android:permission
+		ADDED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml:46:18-74
+	android:name
+		ADDED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml:44:18-45
+intent-filter#android.intent.category.DEFAULT+android.nfc.cardemulation.action.HOST_APDU_SERVICE
+ADDED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml:48:13-51:29
+action#android.nfc.cardemulation.action.HOST_APDU_SERVICE
+ADDED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml:49:17-92
+	android:name
+		ADDED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml:49:25-90
+category#android.intent.category.DEFAULT
+ADDED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml:50:17-75
+	android:name
+		ADDED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml:50:27-73
+meta-data#android.nfc.cardemulation.host_apdu_service
+ADDED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml:54:13-55:58
+	android:resource
+		ADDED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml:55:24-56
+	android:name
+		ADDED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml:54:24-82
+uses-sdk
+INJECTED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v13:27.0.2] /Users/thibautmaddelein/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/dd0ba70a0007808fe549a9aed0bad4e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] /Users/thibautmaddelein/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/dd0ba70a0007808fe549a9aed0bad4e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/thibautmaddelein/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/b5714683bbf5b1e2ea4898a1fc0c50d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/thibautmaddelein/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/b5714683bbf5b1e2ea4898a1fc0c50d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/thibautmaddelein/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/788dd3265976bf65b9c2aee218005aa4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/thibautmaddelein/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/788dd3265976bf65b9c2aee218005aa4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/thibautmaddelein/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/4a6bb353d7b02f62796caa73c0a9a512/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/thibautmaddelein/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/4a6bb353d7b02f62796caa73c0a9a512/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/thibautmaddelein/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/2cfde4d14c2adf1c701303f1ab0a5e97/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/thibautmaddelein/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/2cfde4d14c2adf1c701303f1ab0a5e97/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/thibautmaddelein/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/735cca6f463aaf6cfd8e0bdcb9841a07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/thibautmaddelein/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/735cca6f463aaf6cfd8e0bdcb9841a07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/thibautmaddelein/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/9d85d8b9aebf8d356a1bafe44b963db3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/thibautmaddelein/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/9d85d8b9aebf8d356a1bafe44b963db3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/thibautmaddelein/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/91357a4898d7552ffb35d1331ca9ae1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/thibautmaddelein/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/91357a4898d7552ffb35d1331ca9ae1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/thibautmaddelein/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/09ae4c003ba246f79b61fd52d9cd3856/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/thibautmaddelein/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/09ae4c003ba246f79b61fd52d9cd3856/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/thibautmaddelein/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/a8307c868f04815005860c9689d94097/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/thibautmaddelein/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/a8307c868f04815005860c9689d94097/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/thibautmaddelein/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/4ea41056d1633960aaeab21cd4500754/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/thibautmaddelein/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/4ea41056d1633960aaeab21cd4500754/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/thibautmaddelein/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/c4762f4351be1f26c6f21df3439e8424/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/thibautmaddelein/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/c4762f4351be1f26c6f21df3439e8424/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/tokenization/Application/src/main/AndroidManifest.xml

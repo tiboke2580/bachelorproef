@@ -1,0 +1,57 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/biometric/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "/Users/thibautmaddelein/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/4a6bb353d7b02f62796caa73c0a9a512/res/values-v11/values-v11.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "5,11,17,23,29,35,41,42,46,50,51,55,59,60,64,69,74,79,81,83,84,85,139,194",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "198,617,1042,1470,1896,2323,2748,2837,3083,3332,3433,3685,3940,4043,4296,4704,5124,5546,5653,5782,5853,5936,9899,14005",
+                        "endLines": "10,16,22,28,34,40,41,45,49,50,54,58,59,63,68,73,78,80,82,83,84,138,193,194",
+                        "endColumns": "12,12,12,12,12,12,88,12,12,100,12,12,102,12,12,12,12,12,12,70,82,12,12,90",
+                        "endOffsets": "612,1037,1465,1891,2318,2743,2832,3078,3327,3428,3680,3935,4038,4291,4699,5119,5541,5648,5777,5848,5931,9894,14000,14091"
+                    }
+                },
+                {
+                    "source": "/Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/biometric/Application/src/main/res/values-v11/template-styles.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "195",
+                        "startColumns": "4",
+                        "startOffsets": "14096",
+                        "endColumns": "64",
+                        "endOffsets": "14156"
+                    }
+                },
+                {
+                    "source": "/Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/biometric/Application/src/main/res/values-v11/colors.xml",
+                    "from": {
+                        "startLines": "18,19,17",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "739,786,691",
+                        "endColumns": "46,47,47",
+                        "endOffsets": "781,829,734"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,102,150",
+                        "endColumns": "46,47,47",
+                        "endOffsets": "97,145,193"
+                    }
+                }
+            ]
+        }
+    ]
+}

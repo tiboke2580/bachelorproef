@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/biometric/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/thibautmaddelein/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/4a6bb353d7b02f62796caa73c0a9a512/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

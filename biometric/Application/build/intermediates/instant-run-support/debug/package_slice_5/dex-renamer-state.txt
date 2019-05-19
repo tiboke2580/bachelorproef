@@ -1,0 +1,4 @@
+#Sun May 12 16:25:27 CEST 2019
+base.0=/Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/bachelorproef-thibaut-maddelein/biometric/Application/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex

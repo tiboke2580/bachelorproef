@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.4)  11 MAY 2019 17:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.4)  19 MAY 2019 14:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1721,7 +1721,7 @@ Hoofdstuk 2.
 [15
 
 ]
-<img/WalletHostBasedCardEmulation.png, id=196, 712.6625pt x 401.5pt>
+<img/WalletHostBasedCardEmulation.png, id=205, 712.6625pt x 401.5pt>
 File: img/WalletHostBasedCardEmulation.png Graphic file (type png)
 <use img/WalletHostBasedCardEmulation.png>
 Package pdftex.def Info: img/WalletHostBasedCardEmulation.png  used on input li
@@ -1735,11 +1735,21 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
 
 ]
 Hoofdstuk 3.
-) (./conclusie.tex [23] [24
 
-]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [23]
+<img/ManifestService.png, id=258, 863.225pt x 204.765pt>
+File: img/ManifestService.png Graphic file (type png)
+<use img/ManifestService.png>
+Package pdftex.def Info: img/ManifestService.png  used on input line 27.
+(pdftex.def)             Requested size: 426.79135pt x 101.23868pt.
+)
+(./conclusie.tex [24 <./img/ManifestService.png>]
 Hoofdstuk 4.
-) [25] [26
+) [25
+
+] [26
 
 ]
 B"ylage A.
@@ -1757,11 +1767,11 @@ Package logreq Info: Writing requests to 'bachproef-tin.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 124.
  ) 
 Here is how much of TeX's memory you used:
- 39840 strings out of 492623
- 741130 string characters out of 6129553
- 1347461 words of memory out of 5000000
- 42973 multiletter control sequences out of 15000+600000
- 574325 words of font info for 145 fonts, out of 8000000 for 9000
+ 39856 strings out of 492623
+ 741368 string characters out of 6129553
+ 1347524 words of memory out of 5000000
+ 42982 multiletter control sequences out of 15000+600000
+ 574455 words of font info for 147 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,11n,65p,1354b,3844s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
@@ -1771,10 +1781,10 @@ xlive/2019/texmf-dist/fonts/type1/urw/avantgar/uagd8a.pfb></usr/local/texlive/2
 mf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2019/texmf-dist/fo
 nts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/
 urw/times/utmri8a.pfb>
-Output written on bachproef-tin.pdf (31 pages, 190317 bytes).
+Output written on bachproef-tin.pdf (31 pages, 262908 bytes).
 PDF statistics:
- 406 PDF objects out of 1000 (max. 8388607)
- 329 compressed objects within 4 object streams
- 70 named destinations out of 1000 (max. 500000)
- 24327 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 427 PDF objects out of 1000 (max. 8388607)
+ 345 compressed objects within 4 object streams
+ 73 named destinations out of 1000 (max. 500000)
+ 24348 words of extra memory for PDF output out of 24883 (max. 10000000)
 
