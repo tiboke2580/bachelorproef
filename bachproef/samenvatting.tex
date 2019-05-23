@@ -28,7 +28,6 @@
 \IfLanguageName{english}{%
 \selectlanguage{dutch}
 \chapter*{Samenvatting}
-\lipsum[1-4]
 \selectlanguage{english}
 }{}
 
@@ -37,4 +36,8 @@
 
 \chapter*{\IfLanguageName{dutch}{Samenvatting}{Abstract}}
 
-\lipsum[1-4]
+Door gebruik te maken van Host-based Card Emulation is de nood voor een Secure Element verdwenen voor het simuleren van smartcards. Het Secure Element zorgde ervoor dat de applicaties en de gevoelige data die er werden opgeslagen goed beveiligd waren. Dit niveau van beveiliging wordt bekomen doordat het Secure Element zowel hardware- als softwarematig beveiligd is. Een Secure Element wordt geproduceerd door derden en niet door de producent van het mobiele toestel, wanneer een ontwikkelaar gebruik wil maken van dat Secure Element zal er toestemming moeten verkregen worden van de producent. Wanneer een ontwikkelaar toestemming wil hebben om gebruik te maken van het Secure Element zal er een commerciële overeenkomst moeten getekend worden met de producent en is de ontwikkelaar dus afhankelijk van deze overeenkomst. Omdat men niet meer afhankelijk wou zijn van een derde partij en omdat niet ieder toestel beschikt over een Secure Element was er nood aan een andere oplossing namelijk host-based card emulation. Nu het simuleren van smartcards kan gebeuren zonder een Secure Element worden de applicaties en de gevoelige data opgeslagen op het mobiele toestel. Aangezien alles op het mobiele toestel opgeslagen wordt zijn de applicaties en de gevoelige gegevens vatbaar voor aanvallen vanwege de veiligheidsproblemen die het besturingssysteem met zich meebrengt. Om te verkomen dat er kan genkoeid worden met de data of met de applicatie is er nood aan andere manieren om de applicatie en de data te beveiligen. Wat de verschillende manieren zijn om een HCE applicatie te beveiligen zal onderzocht worden in deze bachelorproef. 
+
+Er zal gekeken worden naar welke mogelijkheden er allemaal beschikbaar zijn om een HCE applicatie te beveiligen en welke de verschillende bedreigingen zijn voor zo'n applicatie. Er zal ook een experiment uitgevoerd worden waarbij drie verschillende beveiligingsmethodes uitgewerkt zullen worden tot een proof-of-concept namelijke biometric factors, encryption en tokenization. Hiermee wordt aangetoond hoe de verschillende methodes geïmplementeerd kunnen worden. Op basis van het experiment zullen de verschillende onderzoeksvragen beantwoord worden om een duidelijk beeld te geven van de verschillen of gelijkenissen tussen de gekozen beveiligingsmethodes. Er wordt gekeken naar de moeilijkheid om een methode te implementeren,  zichtbaarheid van de data, veiligheid van de methode, mogelijkheid tot combinatie en de voordelen van het combineren van verschillende methodes. Aan het begin van dit onderzoek werd er verwacht dat het gebruiken van biometrische factoren de veiligste oplossing zou zijn ook op vlak van user-experience.
+
+ Uit het onderzoek is gebleken dat dit inderdaad de veiligste manier is om een applicatie te beveileig maar enkel de toegang tot de applicatie en niet de beveiliging van de data. Uit het onderzoek kan er ook geconcludeerd worden dat er niet één juiste of beste oplossing is, het kiezen van de beste methode hangt sterk af van de noden van de applicatie en kan dus niet veralgemeend worden. Bij het maken van de keuze van beveiligingsmethode moet er niet enkel gekeken worden naar het niveau van veiligheid die de methode aanbied maar ook naar de kosten die het met zich meebrengt. 

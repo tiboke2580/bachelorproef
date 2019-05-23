@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 2.9 $
+% $ biblatex bbl format version 3.0 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -49,19 +49,19 @@
     \endentry
     \entry{SCA2014}{article}{}
       \name{author}{1}{}{%
-        {{uniquename=0,uniquepart=base,hash=058cd245eaa09ac35901dd3696405481}{%
+        {{uniquename=0,uniquepart=base,hash=98112b309990f6b60f8ad07f92267a70}{%
            family={Alliance},
            familyi={A\bibinitperiod},
            given={Smart\bibnamedelima Card},
            giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{058cd245eaa09ac35901dd3696405481}
-      \strng{fullhash}{058cd245eaa09ac35901dd3696405481}
-      \strng{bibnamehash}{058cd245eaa09ac35901dd3696405481}
-      \strng{authorbibnamehash}{058cd245eaa09ac35901dd3696405481}
-      \strng{authornamehash}{058cd245eaa09ac35901dd3696405481}
-      \strng{authorfullhash}{058cd245eaa09ac35901dd3696405481}
+      \strng{namehash}{98112b309990f6b60f8ad07f92267a70}
+      \strng{fullhash}{98112b309990f6b60f8ad07f92267a70}
+      \strng{bibnamehash}{98112b309990f6b60f8ad07f92267a70}
+      \strng{authorbibnamehash}{98112b309990f6b60f8ad07f92267a70}
+      \strng{authornamehash}{98112b309990f6b60f8ad07f92267a70}
+      \strng{authorfullhash}{98112b309990f6b60f8ad07f92267a70}
       \field{sortinit}{A}
       \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
       \field{extradatescope}{labelyear}
@@ -73,6 +73,57 @@
       \field{year}{2014}
       \verb{file}
       \verb :/Users/thibautmaddelein/Documents/school/2018-2019/bachelorproef/literatuurstudie/HCE-101-WP-FINAL-081114-clean.pdf:PDF
+      \endverb
+    \endentry
+    \entry{BruteForce}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=b03c6a7ae48351c6408e00c8159e6e64}{%
+           family={cloudflare},
+           familyi={c\bibinitperiod}}}%
+      }
+      \strng{namehash}{b03c6a7ae48351c6408e00c8159e6e64}
+      \strng{fullhash}{b03c6a7ae48351c6408e00c8159e6e64}
+      \strng{bibnamehash}{b03c6a7ae48351c6408e00c8159e6e64}
+      \strng{authorbibnamehash}{b03c6a7ae48351c6408e00c8159e6e64}
+      \strng{authornamehash}{b03c6a7ae48351c6408e00c8159e6e64}
+      \strng{authorfullhash}{b03c6a7ae48351c6408e00c8159e6e64}
+      \field{sortinit}{c}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What is a brute force attack}
+      \verb{urlraw}
+      \verb https://www.cloudflare.com/learning/bots/brute-force-attack/
+      \endverb
+      \verb{url}
+      \verb https://www.cloudflare.com/learning/bots/brute-force-attack/
+      \endverb
+    \endentry
+    \entry{Cryptomathic}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=f443def4e226a59a18e3879c4d37ac0a}{%
+           family={Cryptomathic},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{f443def4e226a59a18e3879c4d37ac0a}
+      \strng{fullhash}{f443def4e226a59a18e3879c4d37ac0a}
+      \strng{bibnamehash}{f443def4e226a59a18e3879c4d37ac0a}
+      \strng{authorbibnamehash}{f443def4e226a59a18e3879c4d37ac0a}
+      \strng{authornamehash}{f443def4e226a59a18e3879c4d37ac0a}
+      \strng{authorfullhash}{f443def4e226a59a18e3879c4d37ac0a}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Potect HCE Moblie Applications with Cryptomathic MASC}
+      \field{year}{2014}
+      \verb{file}
+      \verb :/Users/thibautmaddelein/Documents/school/2018-2019/bachelorproef/literatuurstudie/protect_hce_mobile_apps_with_masc_v1.5.pdf:PDF
       \endverb
     \endentry
     \entry{Borko2014}{article}{}
@@ -115,36 +166,65 @@
       \verb :/Users/thibautmaddelein/Documents/school/2018-2019/bachelorproef/literatuurstudie/ImplementingNFCservicesecurity-SEvsTEEvsHCE.pdf:PDF
       \endverb
     \endentry
-    \entry{Pollefliet2011}{book}{}
+    \entry{Cavallari2014}{article}{}
       \name{author}{1}{}{%
-        {{uniquename=0,uniquepart=base,hash=7ca343ebcc6de1727ac22a1a847c21e5}{%
-           family={Pollefliet},
-           familyi={P\bibinitperiod},
-           given={Leen},
-           giveni={L\bibinitperiod},
-           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=68ed7cf18447d1250266b645c941221f}{%
+           family={Maurizio\bibnamedelima Cavallari},
+           familyi={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Francesco\bibnamedelima Tornieri},
+           giveni={F\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0,
+           suffix={Luca\bibnamedelima Adami},
+           suffixi={L\bibinitperiod\bibinitdelim A\bibinitperiod},
+           suffixun=0}}%
       }
-      \list{location}{1}{%
-        {Gent}%
-      }
-      \list{publisher}{1}{%
-        {Academia Press}%
-      }
-      \strng{namehash}{7ca343ebcc6de1727ac22a1a847c21e5}
-      \strng{fullhash}{7ca343ebcc6de1727ac22a1a847c21e5}
-      \strng{bibnamehash}{7ca343ebcc6de1727ac22a1a847c21e5}
-      \strng{authorbibnamehash}{7ca343ebcc6de1727ac22a1a847c21e5}
-      \strng{authornamehash}{7ca343ebcc6de1727ac22a1a847c21e5}
-      \strng{authorfullhash}{7ca343ebcc6de1727ac22a1a847c21e5}
-      \field{sortinit}{P}
-      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \strng{namehash}{68ed7cf18447d1250266b645c941221f}
+      \strng{fullhash}{68ed7cf18447d1250266b645c941221f}
+      \strng{bibnamehash}{68ed7cf18447d1250266b645c941221f}
+      \strng{authorbibnamehash}{68ed7cf18447d1250266b645c941221f}
+      \strng{authornamehash}{68ed7cf18447d1250266b645c941221f}
+      \strng{authorfullhash}{68ed7cf18447d1250266b645c941221f}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Schrijven van verslag tot eindwerk: do's en don'ts}
-      \field{year}{2011}
+      \field{title}{Organisational aspects and anatomy of an attack on NFC/HCE mobile payment systems}
+      \field{year}{2014}
+      \verb{file}
+      \verb :/Users/thibautmaddelein/school/2018-2019/semester_2/bachelorproef/literatuurstudie/hceAttacks.pdf:PDF
+      \endverb
+    \endentry
+    \entry{HowToEncrypt}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=fe3f466bb7219da066be4da80d9b5413}{%
+           family={overflow},
+           familyi={o\bibinitperiod},
+           given={Stack},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fe3f466bb7219da066be4da80d9b5413}
+      \strng{fullhash}{fe3f466bb7219da066be4da80d9b5413}
+      \strng{bibnamehash}{fe3f466bb7219da066be4da80d9b5413}
+      \strng{authorbibnamehash}{fe3f466bb7219da066be4da80d9b5413}
+      \strng{authornamehash}{fe3f466bb7219da066be4da80d9b5413}
+      \strng{authorfullhash}{fe3f466bb7219da066be4da80d9b5413}
+      \field{sortinit}{o}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{How to encrypt string values and byte arrays}
+      \verb{urlraw}
+      \verb https://stackoverflow.com/questions/10562908/encryption-of-strings-works-encryption-of-byte-array-type-does-not-work
+      \endverb
+      \verb{url}
+      \verb https://stackoverflow.com/questions/10562908/encryption-of-strings-works-encryption-of-byte-array-type-does-not-work
+      \endverb
     \endentry
   \enddatalist
 \endrefsection

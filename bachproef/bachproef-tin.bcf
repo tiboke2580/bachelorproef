@@ -2146,22 +2146,29 @@
     <bcf:datasource type="file" datatype="bibtex">../voorstel/voorstel.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">Pollefliet2011</bcf:citekey>
-    <bcf:citekey order="2">SCA2014</bcf:citekey>
+    <bcf:citekey order="1">SCA2014</bcf:citekey>
+    <bcf:citekey order="2">Alattar2014</bcf:citekey>
     <bcf:citekey order="3">Alattar2014</bcf:citekey>
     <bcf:citekey order="4">Alattar2014</bcf:citekey>
-    <bcf:citekey order="5">Alattar2014</bcf:citekey>
-    <bcf:citekey order="6">Borko2014</bcf:citekey>
-    <bcf:citekey order="7">SCA2014</bcf:citekey>
-    <bcf:citekey order="8">SCA2014</bcf:citekey>
-    <bcf:citekey order="9">SCA2014</bcf:citekey>
-    <bcf:citekey order="10">SCA2014</bcf:citekey>
+    <bcf:citekey order="5">Borko2014</bcf:citekey>
+    <bcf:citekey order="6">Cryptomathic</bcf:citekey>
+    <bcf:citekey order="7">Cryptomathic</bcf:citekey>
+    <bcf:citekey order="8">Cryptomathic</bcf:citekey>
+    <bcf:citekey order="9">Cryptomathic</bcf:citekey>
+    <bcf:citekey order="10">Cavallari2014</bcf:citekey>
     <bcf:citekey order="11">SCA2014</bcf:citekey>
     <bcf:citekey order="12">SCA2014</bcf:citekey>
     <bcf:citekey order="13">SCA2014</bcf:citekey>
     <bcf:citekey order="14">SCA2014</bcf:citekey>
     <bcf:citekey order="15">SCA2014</bcf:citekey>
-    <bcf:citekey order="16">Borko2014</bcf:citekey>
+    <bcf:citekey order="16">SCA2014</bcf:citekey>
+    <bcf:citekey order="17">SCA2014</bcf:citekey>
+    <bcf:citekey order="18">SCA2014</bcf:citekey>
+    <bcf:citekey order="19">SCA2014</bcf:citekey>
+    <bcf:citekey order="20">HowToEncrypt</bcf:citekey>
+    <bcf:citekey order="21">BruteForce</bcf:citekey>
+    <bcf:citekey order="22">SCA2014</bcf:citekey>
+    <bcf:citekey order="23">Borko2014</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">

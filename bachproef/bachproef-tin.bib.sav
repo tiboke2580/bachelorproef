@@ -75,7 +75,7 @@
 }
 
 @Article{HowToEncrypt,
-  author = {Stack overflow},
+  author = {S},
   title  = {How to encrypt string values and byte arrays},
   url    = {https://stackoverflow.com/questions/10562908/encryption-of-strings-works-encryption-of-byte-array-type-does-not-work
 },

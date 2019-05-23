@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.4)  19 MAY 2019 14:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.4)  23 MAY 2019 22:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1541,12 +1541,8 @@ Package biblatex Info: Automatic encoding selection.
 \openout4 = `bachproef-tin.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-
-
-Package biblatex Warning: File 'bachproef-tin.bbl' is wrong format version - ex
-pected 3.0.
-
 Package biblatex Info: ... file 'bachproef-tin.bbl' found.
+
 (./bachproef-tin.bbl)
 Package biblatex Info: Reference section=0 on input line 47.
 Package biblatex Info: Reference segment=0 on input line 47.
@@ -1582,12 +1578,12 @@ Package biblatex Info: Reference segment=0 on input line 47.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<img/HG-beeldmerk-woordmerk.png, id=7, 557.2017pt x 611.4042pt>
+<img/HG-beeldmerk-woordmerk.png, id=7, 3503.0875pt x 1975.38pt>
 File: img/HG-beeldmerk-woordmerk.png Graphic file (type png)
 <use img/HG-beeldmerk-woordmerk.png>
 Package pdftex.def Info: img/HG-beeldmerk-woordmerk.png  used on input line 57.
 
-(pdftex.def)             Requested size: 71.13188pt x 78.04861pt.
+(pdftex.def)             Requested size: 71.13188pt x 40.08864pt.
  [1
 
 
@@ -1658,13 +1654,16 @@ LaTeX Font Info:    Font shape `T1/pag/bx/n' in size <24.88> not available
 (Font)              Font shape `T1/pag/b/n' tried instead on input line 5.
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <24.88> not available
 (Font)              Font shape `T1/pag/db/n' tried instead on input line 5.
-)
-(./samenvatting.tex [3] [4
 
-])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [5]
+ [3])
+(./samenvatting.tex [4]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5
+
+])
 [6] (./bachproef-tin.toc
 LaTeX Font Info:    Font shape `T1/pag/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/pag/b/n' tried instead on input line 4.
@@ -1683,108 +1682,193 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [7
 
-])
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8])
 \tf@toc=\write6
 \openout6 = `bachproef-tin.toc'.
 
 
-[8] (./bachproef-tin.lof)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9]
+[10] (./bachproef-tin.lof)
 \tf@lof=\write7
 \openout7 = `bachproef-tin.lof'.
 
- [9
+ (./inleiding.tex [11
 
 
-] [10
-
-] (./bachproef-tin.lot)
-\tf@lot=\write8
-\openout8 = `bachproef-tin.lot'.
-
- (./inleiding.tex
-[11] [12
+] [12
 
 ]
 Hoofdstuk 1.
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 11.
-(/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/omsptm.fd
+[13]
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 37.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 11.
-
-Underfull \vbox (badness 5133) has occurred while \output is active []
-
- [13])
-(./standvanzaken.tex [14]
-Hoofdstuk 2.
-[15
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 37.
+ [14])
+(./standvanzaken.tex [15] [16
 
 ]
-<img/WalletHostBasedCardEmulation.png, id=205, 712.6625pt x 401.5pt>
+Hoofdstuk 2.
+[17]
+<img/WalletHostBasedCardEmulation.png, id=299, 712.6625pt x 401.5pt>
 File: img/WalletHostBasedCardEmulation.png Graphic file (type png)
 <use img/WalletHostBasedCardEmulation.png>
 Package pdftex.def Info: img/WalletHostBasedCardEmulation.png  used on input li
-ne 23.
+ne 22.
 (pdftex.def)             Requested size: 426.79135pt x 240.44237pt.
- [16 <./img/WalletHostBasedCardEmulation.png (PNG copy)>] [17] [18]
-[19]
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 96.
- [20]) (./methodologie.tex [21] [22
+ [18 <./img/WalletHostBasedCardEmulation.png (PNG copy)>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-]
+ [19]
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 58.
+
+[20]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [21]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22]
+[23]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [24]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [25]
+[26]
+<img/Tokenization.png, id=363, 2244.385pt x 887.315pt>
+File: img/Tokenization.png Graphic file (type png)
+<use img/Tokenization.png>
+Package pdftex.def Info: img/Tokenization.png  used on input line 159.
+(pdftex.def)             Requested size: 426.79135pt x 168.72699pt.
+ [27 <./img/Tokenization.png>]) (./methodologie.tex [28]
 Hoofdstuk 3.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [23]
-<img/ManifestService.png, id=258, 863.225pt x 204.765pt>
+ [29
+
+]
+<img/ManifestService.png, id=381, 863.225pt x 204.765pt>
 File: img/ManifestService.png Graphic file (type png)
 <use img/ManifestService.png>
 Package pdftex.def Info: img/ManifestService.png  used on input line 27.
 (pdftex.def)             Requested size: 426.79135pt x 101.23868pt.
-)
-(./conclusie.tex [24 <./img/ManifestService.png>]
+
+[30 <./img/ManifestService.png>] [31]) (./resultaten.tex [32]
 Hoofdstuk 4.
-) [25
+[33
 
-] [26
+] [34]
+<img/bruteforce.png, id=413, 1454.43375pt x 965.6075pt>
+File: img/bruteforce.png Graphic file (type png)
+<use img/bruteforce.png>
+Package pdftex.def Info: img/bruteforce.png  used on input line 54.
+(pdftex.def)             Requested size: 426.79135pt x 283.34888pt.
+
+Underfull \vbox (badness 5475) has occurred while \output is active []
+
+ [35]
+[36 <./img/bruteforce.png>]) (./conclusie.tex [37] [38
 
 ]
+Hoofdstuk 5.
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [39]
+[40]
 B"ylage A.
-(../voorstel/voorstel-inhoud.tex [27]) [28] [29
+(../voorstel/voorstel-inhoud.tex [41
+
+]) [42]
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 12
+2.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `ztmcm' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 12
+2.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 12
+2.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 12
+2.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 122.
+
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 122.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 122.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 122.
+ [43
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 124.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 124.
- (./bachproef-tin.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 124.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 124.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 125.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 125.
+
+(./bachproef-tin.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 125.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 125.
 Package logreq Info: Writing requests to 'bachproef-tin.run.xml'.
 \openout1 = `bachproef-tin.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 124.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 125.
  ) 
 Here is how much of TeX's memory you used:
- 39856 strings out of 492623
- 741368 string characters out of 6129553
- 1347524 words of memory out of 5000000
- 42982 multiletter control sequences out of 15000+600000
- 574455 words of font info for 147 fonts, out of 8000000 for 9000
+ 40087 strings out of 492623
+ 745454 string characters out of 6129553
+ 1350576 words of memory out of 5000000
+ 43142 multiletter control sequences out of 15000+600000
+ 580739 words of font info for 168 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,11n,65p,1354b,3844s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 57i,12n,65p,1867b,3844s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
 xlive/2019/texmf-dist/fonts/type1/urw/avantgar/uagd8a.pfb></usr/local/texlive/2
 019/texmf-dist/fonts/type1/urw/avantgar/uagk8a.pfb></usr/local/texlive/2019/tex
 mf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2019/texmf-dist/fo
-nts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/
-urw/times/utmri8a.pfb>
-Output written on bachproef-tin.pdf (31 pages, 262908 bytes).
+nts/type1/urw/times/utmr8a.pfb>
+Output written on bachproef-tin.pdf (45 pages, 551037 bytes).
 PDF statistics:
- 427 PDF objects out of 1000 (max. 8388607)
- 345 compressed objects within 4 object streams
- 73 named destinations out of 1000 (max. 500000)
- 24348 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 688 PDF objects out of 1000 (max. 8388607)
+ 559 compressed objects within 6 object streams
+ 117 named destinations out of 1000 (max. 500000)
+ 26614 words of extra memory for PDF output out of 29859 (max. 10000000)
 

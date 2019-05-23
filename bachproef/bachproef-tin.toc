@@ -11,57 +11,109 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.4}Opzet van deze bachelorproef}{14}{section.1.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {2}Stand van zaken}{15}{chapter.2}% 
+\contentsline {chapter}{\numberline {2}Stand van zaken}{17}{chapter.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.1}Host-based Card Emulation (HCE)}{15}{section.2.1}% 
+\contentsline {section}{\numberline {2.1}Host-based Card Emulation (HCE)}{17}{section.2.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}Near Field Communication (NFC)}{16}{section.2.2}% 
+\contentsline {section}{\numberline {2.2}Near Field Communication (NFC)}{18}{section.2.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}Secure Element (SE)}{17}{section.2.3}% 
+\contentsline {section}{\numberline {2.3}Secure Element (SE)}{19}{section.2.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.4}Beveiliging HCE}{17}{section.2.4}% 
+\contentsline {section}{\numberline {2.4}Bedreigingen voor een contactloze betalingsapplicatie}{19}{section.2.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.5}Beveiliging op hardware niveau}{18}{section.2.5}% 
+\contentsline {subsection}{\numberline {2.4.1}Software Reverse Engineering}{20}{subsection.2.4.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.5.1}Biometric Factors}{18}{subsection.2.5.1}% 
+\contentsline {subsection}{\numberline {2.4.2}Secure Data Storage}{20}{subsection.2.4.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.5.2}Secure Element}{18}{subsection.2.5.2}% 
+\contentsline {subsection}{\numberline {2.4.3}Malware}{20}{subsection.2.4.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.6}Beveiliging op software niveau}{19}{section.2.6}% 
+\contentsline {subsection}{\numberline {2.4.4}Gebruik van een nep Point-of-Sale (POS)}{21}{subsection.2.4.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.6.1}White Box Cryptography}{19}{subsection.2.6.1}% 
+\contentsline {subsection}{\numberline {2.4.5}Brute force aanval}{22}{subsection.2.4.5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.6.2}Tamper-Proofed Software}{19}{subsection.2.6.2}% 
+\contentsline {section}{\numberline {2.5}Hardware beveiliging vs risicobeperking}{23}{section.2.5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.6.3}Device Identity Solutions}{19}{subsection.2.6.3}% 
+\contentsline {section}{\numberline {2.6}Beveiliging HCE}{23}{section.2.6}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.6.4}Encryption}{20}{subsection.2.6.4}% 
+\contentsline {section}{\numberline {2.7}Beveiliging op hardware niveau}{24}{section.2.7}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.6.5}Tokenization}{20}{subsection.2.6.5}% 
+\contentsline {subsection}{\numberline {2.7.1}Biometric Factors}{24}{subsection.2.7.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.7}Beveiliging op software en hardware niveau}{20}{section.2.7}% 
+\contentsline {subsection}{\numberline {2.7.2}Secure Element}{24}{subsection.2.7.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.7.1}Security Frameworks/Trusted Execution Environment}{20}{subsection.2.7.1}% 
+\contentsline {section}{\numberline {2.8}Beveiliging op software niveau}{25}{section.2.8}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Methodologie}{23}{chapter.3}% 
+\contentsline {subsection}{\numberline {2.8.1}White Box Cryptography}{25}{subsection.2.8.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Beveiligingsmethodes}{23}{section.3.1}% 
+\contentsline {subsection}{\numberline {2.8.2}Tamper-Proofed Software}{25}{subsection.2.8.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Opbouw Host-based Card Emulation applicatie}{24}{section.3.2}% 
+\contentsline {subsection}{\numberline {2.8.3}Device Identity Solutions}{25}{subsection.2.8.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Conclusie}{25}{chapter.4}% 
+\contentsline {subsection}{\numberline {2.8.4}Encryption}{26}{subsection.2.8.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {A}Onderzoeksvoorstel}{27}{appendix.A}% 
+\contentsline {subsection}{\numberline {2.8.5}Tokenization}{26}{subsection.2.8.5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.1}Introductie}{27}{section.A.1}% 
+\contentsline {section}{\numberline {2.9}Beveiliging op software en hardware niveau}{27}{section.2.9}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.2}State-of-the-art}{27}{section.A.2}% 
+\contentsline {subsection}{\numberline {2.9.1}Security Frameworks/Trusted Execution Environment}{27}{subsection.2.9.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.3}Methodologie}{28}{section.A.3}% 
+\contentsline {chapter}{\numberline {3}Methodologie}{29}{chapter.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.4}Verwachte resultaten}{28}{section.A.4}% 
+\contentsline {section}{\numberline {3.1}Beveiligingsmethodes}{29}{section.3.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.5}Verwachte conclusies}{28}{section.A.5}% 
+\contentsline {section}{\numberline {3.2}Opbouw Host-based Card Emulation applicatie}{30}{section.3.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliografie}{29}{appendix*.6}% 
+\contentsline {section}{\numberline {3.3}Implementatie biometric factors}{30}{section.3.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}Implementatie encryption}{31}{section.3.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.5}Implementatie tokenization}{31}{section.3.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.6}Onderzoek}{32}{section.3.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Resultaten}{33}{chapter.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Moeilijkheidsgraad van de implementatie}{33}{section.4.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.1}Biometric factors}{33}{subsection.4.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.2}Encryption}{34}{subsection.4.1.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.3}Tokenization}{34}{subsection.4.1.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}Zichtbaarheid van de gevoelige gegevens}{34}{section.4.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.1}Biometric factors}{34}{subsection.4.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.2}Encryption}{35}{subsection.4.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.3}Tokenization}{35}{subsection.4.2.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}Veiligheid van de beveiligingsmethode}{35}{section.4.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.1}Biometric factors}{35}{subsection.4.3.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.2}Encryption}{35}{subsection.4.3.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.3}Tokenization}{36}{subsection.4.3.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.4}Combinatie van verschillende beveiligingsmethodes}{36}{section.4.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.5}Voordelen van het combineren van verschillende methodes}{37}{section.4.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Conclusie}{39}{chapter.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {A}Onderzoeksvoorstel}{41}{appendix.A}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.1}Introductie}{41}{section.A.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.2}State-of-the-art}{41}{section.A.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.3}Methodologie}{42}{section.A.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.4}Verwachte resultaten}{42}{section.A.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.5}Verwachte conclusies}{42}{section.A.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Bibliografie}{43}{appendix*.5}% 
 \contentsfinish 

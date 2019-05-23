@@ -102,14 +102,10 @@ public class CardService extends HostApduService {
         if (Arrays.equals(SELECT_APDU, commandApdu)) {
             byte[] account = AccountStorage.GetAccount(this);
             Log.i(TAG, "Sending account number: " + account);
-            try {
-                return decrypt(account);
-            } catch (Exception e) {
-                e.printStackTrace();
-            }
+            return account;
         } else {
             try {
-                return decrypt(UNKNOWN_CMD_SW);
+                return encrypt(UNKNOWN_CMD_SW);
             } catch (Exception e) {
                 e.printStackTrace();
             }
